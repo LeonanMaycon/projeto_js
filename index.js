@@ -1,5 +1,3 @@
-
-
 const colors = ['green', 'yellow', 'purple', 'blue', 'red'];
 const btn = document.getElementById('btn');
 const color = document.querySelector('.color');
